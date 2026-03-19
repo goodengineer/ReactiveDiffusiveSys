@@ -12,7 +12,7 @@ I in fact fairly, ethically correct, legitmately by control law ruled by legit p
 
 This is very rare singletone.
 
-So if you can help me.
+So if you can support/help me...
 
 Ref.:
 [1] Microsoft. (2026). Copilot (Think deeper) [LLM]. https://copilot.microsoft.com/
