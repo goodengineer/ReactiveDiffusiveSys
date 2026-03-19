@@ -6,6 +6,10 @@ I produced them by numerous weeks means more than 25 days of day-to-day, 5+ hour
 This is really good, interesting programme codes, since novel SDIRK, Rosenbrock stiff systems solvers are inside together with 3D patterns plotting and it is for TCE (starting from TCE Octave)  produced in cooperation with Ms Copilot, I verified them and these particular repository needs more tuning, correction, 55% of the whole system
 fragments are working OK, the 45% need to tune for run-time.
 
+I in fact fairly, ethically correct, legitmately by control law ruled by legit phylosophy supply another full fledged products developed with no use of AI or with limited (till 25% help of AI) good HI goods and services.
+
+This is very rare singletone.
+
 So if you can help me.
 
 Ref.:
