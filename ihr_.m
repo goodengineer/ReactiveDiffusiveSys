@@ -588,7 +588,6 @@ industrial_reactors_highres_full_fixed()
 ##    https://www.mathworks.com/matlabcentral/profile/authors/1643504
 ##    https://www.researchgate.net/profile/Pavel-Mazniker
 ##    https://nanohub.org/members/130066
-##    https://pavelmaz.blogspot.com/
 ##    ko-fi.com/mrpaul61277
 ##    https://independant.academia.edu/PavelMazniker
 ##    https://www.youtube.com/channel/UCC__7jMOAHak0MVkUFtmO-w
